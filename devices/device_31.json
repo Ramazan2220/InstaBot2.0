@@ -1,0 +1,17 @@
+{
+    "app_version": "269.0.0.18.75",
+    "android_version": "10.0",
+    "android_release": "10.0",
+    "dpi": "440dpi",
+    "resolution": "1080x2160",
+    "manufacturer": "samsung",
+    "device": "SM-G781B",
+    "model": "SM-G781B",
+    "cpu": "qcom",
+    "version_code": "365203812",
+    "user_agent": "Instagram 269.0.0.18.75 Android (10.0/10.0; 440dpi; 1080x2160; samsung; SM-G781B; sm-g781b; qcom)",
+    "device_id": "android-6ee770d4fe6df67d",
+    "phone_id": "d43898408de38c0ede8991e49077956a-a28586baec86d1caccbe1a5628b603f3",
+    "uuid": "816c9e44-168b-b6fb-01d9-dbf10bd6a68f",
+    "device_name": "samsung SM-G781B"
+}

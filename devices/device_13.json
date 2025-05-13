@@ -1,0 +1,17 @@
+{
+    "app_version": "269.0.0.18.75",
+    "android_version": "11",
+    "android_release": "11",
+    "dpi": "440dpi",
+    "resolution": "1080x2340",
+    "manufacturer": "google",
+    "device": "Pixel 5",
+    "model": "Pixel 5",
+    "cpu": "qcom",
+    "version_code": "365203812",
+    "user_agent": "Instagram 269.0.0.18.75 Android (11/11; 440dpi; 1080x2340; google; Pixel 5; pixel-5; qcom)",
+    "device_id": "android-d6d7b7e2bb422158",
+    "phone_id": "c407df218f6a7c78153cbc618d6bc07d-97c393afd3989bd254574659e27e33ce",
+    "uuid": "a006b2af-ef68-e5b3-bd75-7c52eb65dd4b",
+    "device_name": "google Pixel 5"
+}

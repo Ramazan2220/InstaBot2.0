@@ -1,0 +1,17 @@
+{
+    "app_version": "269.0.0.18.75",
+    "android_version": "13",
+    "android_release": "13",
+    "dpi": "440dpi",
+    "resolution": "1080x2340",
+    "manufacturer": "xiaomi",
+    "device": "Mi 10 Pro",
+    "model": "Mi 10 Pro",
+    "cpu": "qcom",
+    "version_code": "365203812",
+    "user_agent": "Instagram 269.0.0.18.75 Android (13/13; 440dpi; 1080x2340; xiaomi; Mi 10 Pro; mi-10-pro; qcom)",
+    "device_id": "android-fe051f5cdb345c84",
+    "phone_id": "46debbd6039a1dd8f2593f615a4963ae-01fa5861ad14cf21214179c02722c8f2",
+    "uuid": "44917060-ed57-1ed7-8583-b08eac4f6543",
+    "device_name": "xiaomi Mi 10 Pro"
+}

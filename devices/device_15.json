@@ -1,0 +1,17 @@
+{
+    "app_version": "269.0.0.18.75",
+    "android_version": "10",
+    "android_release": "10",
+    "dpi": "440dpi",
+    "resolution": "1080x2340",
+    "manufacturer": "xiaomi",
+    "device": "Mi 10T",
+    "model": "Mi 10T",
+    "cpu": "qcom",
+    "version_code": "365203812",
+    "user_agent": "Instagram 269.0.0.18.75 Android (10/10; 440dpi; 1080x2340; xiaomi; Mi 10T; mi-10t; qcom)",
+    "device_id": "android-73720e51b1976c30",
+    "phone_id": "d2d8390802d20e11fda4859787dc1421-c6b19cb915d12449c750811bff57e2f3",
+    "uuid": "9fa560d0-b7f4-219f-9813-4326b16f324d",
+    "device_name": "xiaomi Mi 10T"
+}

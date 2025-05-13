@@ -1,0 +1,17 @@
+{
+    "app_version": "269.0.0.18.75",
+    "android_version": "12",
+    "android_release": "12",
+    "dpi": "480dpi",
+    "resolution": "1440x3200",
+    "manufacturer": "oppo",
+    "device": "A54",
+    "model": "A54",
+    "cpu": "qcom",
+    "version_code": "365203812",
+    "user_agent": "Instagram 269.0.0.18.75 Android (12/12; 480dpi; 1440x3200; oppo; A54; a54; qcom)",
+    "device_id": "android-ae215124882ebd95",
+    "phone_id": "6887f7393a259832178a852ed79935dc-cfa7f5848cfaf77eb03ea457e1f15ea6",
+    "uuid": "2692752f-515d-a6fc-5e34-07065d9f27f1",
+    "device_name": "oppo A54"
+}

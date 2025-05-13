@@ -1,0 +1,17 @@
+{
+    "app_version": "269.0.0.18.75",
+    "android_version": "11",
+    "android_release": "11",
+    "dpi": "440dpi",
+    "resolution": "1080x2340",
+    "manufacturer": "samsung",
+    "device": "SM-S908B",
+    "model": "SM-S908B",
+    "cpu": "qcom",
+    "version_code": "365203812",
+    "user_agent": "Instagram 269.0.0.18.75 Android (11/11; 440dpi; 1080x2340; samsung; SM-S908B; sm-s908b; qcom)",
+    "device_id": "android-64befc2726aeae3f",
+    "phone_id": "8ecd00779d6c5afb946338e38b08c55a-9e121fe1cf7899d2bfad20606af8d8ca",
+    "uuid": "f7c78993-f08f-17ff-5886-48d56bbee1bb",
+    "device_name": "samsung SM-S908B"
+}

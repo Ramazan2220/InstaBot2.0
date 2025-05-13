@@ -1,0 +1,17 @@
+{
+    "app_version": "269.0.0.18.75",
+    "android_version": "13",
+    "android_release": "13",
+    "dpi": "560dpi",
+    "resolution": "1440x3200",
+    "manufacturer": "xiaomi",
+    "device": "Redmi Note 9",
+    "model": "Redmi Note 9",
+    "cpu": "qcom",
+    "version_code": "365203812",
+    "user_agent": "Instagram 269.0.0.18.75 Android (13/13; 560dpi; 1440x3200; xiaomi; Redmi Note 9; redmi-note-9; qcom)",
+    "device_id": "android-7572555294066862",
+    "phone_id": "74e367a57b775cc38ca4f6ade0b71af2-4337006fab0fc0c0729e7cc45d85f434",
+    "uuid": "d319cf41-4f60-3d1d-d4b4-ca4bf044b6e1",
+    "device_name": "xiaomi Redmi Note 9"
+}

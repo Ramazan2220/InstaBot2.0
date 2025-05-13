@@ -1,0 +1,17 @@
+{
+    "app_version": "269.0.0.18.75",
+    "android_version": "10.0",
+    "android_release": "10.0",
+    "dpi": "440dpi",
+    "resolution": "1440x3200",
+    "manufacturer": "samsung",
+    "device": "SM-G998B",
+    "model": "SM-G998B",
+    "cpu": "qcom",
+    "version_code": "365203812",
+    "user_agent": "Instagram 269.0.0.18.75 Android (10.0/10.0; 440dpi; 1440x3200; samsung; SM-G998B; sm-g998b; qcom)",
+    "device_id": "android-231d3d50f9c6c63e",
+    "phone_id": "56daf3b31339f8c20a986519bf808a65-ec5a49fa327783907d4a0958f44c75fc",
+    "uuid": "eb12bda6-ce0b-c932-eea5-9261db189471",
+    "device_name": "samsung SM-G998B"
+}

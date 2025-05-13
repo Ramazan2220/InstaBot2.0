@@ -1,0 +1,17 @@
+{
+    "app_version": "269.0.0.18.75",
+    "android_version": "11",
+    "android_release": "11",
+    "dpi": "440dpi",
+    "resolution": "1440x3200",
+    "manufacturer": "samsung",
+    "device": "SM-A526B",
+    "model": "SM-A526B",
+    "cpu": "qcom",
+    "version_code": "365203812",
+    "user_agent": "Instagram 269.0.0.18.75 Android (11/11; 440dpi; 1440x3200; samsung; SM-A526B; sm-a526b; qcom)",
+    "device_id": "android-d7f839d59223c014",
+    "phone_id": "67ca89d67156f2c43647864987d529f3-fda85a45240b921409fd1786a28b85a1",
+    "uuid": "e8c361f3-e0ec-36e2-8c13-ad6b183912df",
+    "device_name": "samsung SM-A526B"
+}

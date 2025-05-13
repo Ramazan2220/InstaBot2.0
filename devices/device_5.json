@@ -1,0 +1,17 @@
+{
+    "app_version": "269.0.0.18.75",
+    "android_version": "12.0.1",
+    "android_release": "12.0.1",
+    "dpi": "420dpi",
+    "resolution": "1080x2280",
+    "manufacturer": "oppo",
+    "device": "A74",
+    "model": "A74",
+    "cpu": "qcom",
+    "version_code": "365203812",
+    "user_agent": "Instagram 269.0.0.18.75 Android (12.0.1/12.0.1; 420dpi; 1080x2280; oppo; A74; a74; qcom)",
+    "device_id": "android-8535912526e136fa",
+    "phone_id": "8a8da7a7d158c98cda3b8a4e11f4fd10-a081adc0a64c01e5565e767062024a75",
+    "uuid": "58a792d0-eb05-6636-1335-f148938a789c",
+    "device_name": "oppo A74"
+}

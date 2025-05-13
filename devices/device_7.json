@@ -1,0 +1,17 @@
+{
+    "app_version": "269.0.0.18.75",
+    "android_version": "13",
+    "android_release": "13",
+    "dpi": "420dpi",
+    "resolution": "1080x2400",
+    "manufacturer": "google",
+    "device": "Pixel 7",
+    "model": "Pixel 7",
+    "cpu": "qcom",
+    "version_code": "365203812",
+    "user_agent": "Instagram 269.0.0.18.75 Android (13/13; 420dpi; 1080x2400; google; Pixel 7; pixel-7; qcom)",
+    "device_id": "android-6d6aa3aa2fbfa63c",
+    "phone_id": "6a66088e314808b06cf6b966c61fa274-0d5a1f9bb1e814b14660dc8a6035b8c2",
+    "uuid": "4274cc4a-c638-e918-f97f-580282234c7c",
+    "device_name": "google Pixel 7"
+}
